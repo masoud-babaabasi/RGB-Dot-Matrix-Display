@@ -1,0 +1,9 @@
+elfcheck
+Xilinx EDK 14.7 Build EDK_P.20131013
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+Command Line: elfcheck -hw ../../Project_tennisgame/system.xml -pe MicroBlaze
+TennisGame.elf 
+
+ELF file	: TennisGame.elf
+elfcheck passed.

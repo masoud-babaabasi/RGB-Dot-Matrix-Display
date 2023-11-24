@@ -1,0 +1,85 @@
+13:55:33.486 INFO  - Project 'Project_tennisgame' created. You can now create BSPs and application projects targeting this hardware platform. 
+14:18:36.010 INFO  - Successfully generated D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\Workingspace\TennisGame\src\lscript.ld. 
+14:18:36.010 INFO  - Applying linker script to all configurations of project TennisGame. 
+14:18:36.010 INFO  - Setting rebuild state to true for all configurations of project TennisGame. 
+15:09:32.916 INFO  - Project Project_tennisgame's source hardware specification located at D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+15:14:03.501 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml into \Project_tennisgame\system.xml. 
+15:14:03.501 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze.bmm into \Project_tennisgame\system_bd.bmm. 
+15:14:03.601 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+15:14:24.294 INFO  - Updating hardware inferred compiler options for TennisGame. 
+15:14:24.325 INFO  - Clearing existing target manager status. 
+01:23:40.407 INFO  - Project Project_tennisgame's source hardware specification located at D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+01:24:23.781 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml into \Project_tennisgame\system.xml. 
+01:24:23.796 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze.bmm into \Project_tennisgame\system_bd.bmm. 
+01:24:23.938 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+01:24:41.359 INFO  - Updating hardware inferred compiler options for TennisGame. 
+01:24:41.359 INFO  - Clearing existing target manager status. 
+02:35:26.891 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+13:33:02.836 INFO  - Project Project_tennisgame's source hardware specification located at D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+13:33:04.738 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml into \Project_tennisgame\system.xml. 
+13:33:04.755 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze.bmm into \Project_tennisgame\system_bd.bmm. 
+13:33:04.860 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+13:33:27.122 INFO  - Updating hardware inferred compiler options for TennisGame. 
+13:33:27.144 INFO  - Clearing existing target manager status. 
+17:16:50.749 INFO  - Project Project_tennisgame's source hardware specification located at D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+17:17:06.652 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml into \Project_tennisgame\system.xml. 
+17:17:06.652 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze.bmm into \Project_tennisgame\system_bd.bmm. 
+17:17:06.736 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+17:17:17.888 INFO  - Updating hardware inferred compiler options for TennisGame. 
+17:17:17.904 INFO  - Clearing existing target manager status. 
+17:17:17.904 INFO  - Closing and re-opening the MSS file of ther project Pro_tennisgame 
+17:17:18.104 INFO  - Closing and re-opening the MSS file of ther project TennisGame_bsp 
+17:17:18.242 INFO  - Closing and re-opening the MSS file of ther project TennisGame_bsp 
+17:17:19.375 INFO  - Workspace synchronized with the new hardware specification file. Cleaning dependent projects... 
+19:49:13.278 ERROR - Unexpected error while fetching XMD's response:  java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+
+19:49:13.278 ERROR - Zero sized response read from XMD. This indicates a communication error or a programming error. 
+00:22:38.452 INFO  - Project Project_tennisgame's source hardware specification located at D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+00:22:40.387 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml into \Project_tennisgame\system.xml. 
+00:22:40.387 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze.bmm into \Project_tennisgame\system_bd.bmm. 
+00:22:40.488 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+00:22:54.856 INFO  - Updating hardware inferred compiler options for TennisGame. 
+00:22:54.871 INFO  - Clearing existing target manager status. 
+01:18:57.736 ERROR - Unexpected error while fetching XMD's response:  java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+
+01:18:57.751 ERROR - Zero sized response read from XMD. This indicates a communication error or a programming error. 
+13:58:11.593 INFO  - Project Project_tennisgame's source hardware specification located at D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+13:58:23.711 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml into \Project_tennisgame\system.xml. 
+13:58:23.711 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze.bmm into \Project_tennisgame\system_bd.bmm. 
+13:58:23.811 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+13:58:38.074 INFO  - Updating hardware inferred compiler options for TennisGame. 
+13:58:38.097 INFO  - Clearing existing target manager status. 
+14:44:55.245 INFO  - Project Project_tennisgame's source hardware specification located at D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+14:44:56.668 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml into \Project_tennisgame\system.xml. 
+14:44:56.684 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze.bmm into \Project_tennisgame\system_bd.bmm. 
+14:44:56.764 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+14:45:06.042 INFO  - Updating hardware inferred compiler options for TennisGame. 
+14:45:06.058 INFO  - Clearing existing target manager status. 
+22:04:26.958 ERROR - Unexpected error while fetching XMD's response:  java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+
+22:04:26.979 ERROR - Zero sized response read from XMD. This indicates a communication error or a programming error. 
+21:55:58.469 INFO  - Project Project_tennisgame's source hardware specification located at D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+21:57:12.477 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze_sdk.xml into \Project_tennisgame\system.xml. 
+21:57:12.482 INFO  - Copied contents of D:\University\Course7\FPGA\Project\Verilog_Code\TennisGame\TennisGame\ipcore_dir\MicroBlaze.bmm into \Project_tennisgame\system_bd.bmm. 
+21:57:12.613 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+21:57:37.991 INFO  - Updating hardware inferred compiler options for TennisGame. 
+21:57:37.994 INFO  - Clearing existing target manager status. 
+22:00:06.612 ERROR - Unexpected error while fetching XMD's response:  java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+
+22:00:06.612 ERROR - Zero sized response read from XMD. This indicates a communication error or a programming error. 

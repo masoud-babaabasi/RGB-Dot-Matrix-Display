@@ -1,0 +1,3 @@
+PROCESSOR=MicroBlaze
+REPOSITORIES=
+HWSPEC=../Project_tennisgame/system.xml
