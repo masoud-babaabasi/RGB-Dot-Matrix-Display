@@ -19,4 +19,8 @@ For the project, we designed two PCBs. One of them which we called "wing PCB", c
 
 The second PCB is a support PCB which holds the DOT matrices and stands perpendicular to the wing PCB. The PS2 connector is used for connection of a PS2 keyboard to FPGA and allows us to be able to receive input commands from the user. 
 
+![PCBs](./PCBs.jpg)
+
 Dot matrices refresh modules are implemented in the Verilog language. A frame buffer is implemented using Spartan6 internal SRAM. For controlling the display and manipulation of the frame buffer, a CPU core called MicroBlaze is utilized. This CPU allowed us to write C/C++ code, which for demonstration we wrote a Ping Pong game for our display.
+
+![Ping Pong](./Pong_game.jpg)
